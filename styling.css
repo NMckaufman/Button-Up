@@ -1,0 +1,33 @@
+
+.but {  
+    background-color:#eeeeee;
+    border-radius: 50pc;
+    border: 3px #5bd9e4;
+    border-style: solid;
+    color:#5bd9e4;
+    text-align: center;
+    font-size: 28px;
+    padding: 10px;
+    width: 200px;
+    }
+.plus {
+    background-color: #63d0da ;
+    text-align:center;
+    color: #eeeeee;
+    font-size: 28px;
+    border-radius: 50%;
+    font-weight: bold;
+    margin: 5px; 
+    width: 4%;
+}
+.ton {
+    box-shadow: 2px 2px 2px 1px black;
+    background-color: dodgerblue;
+    color: floralwhite;
+    border-width: 2px;
+    border-color: black;
+    font-size: 20px;
+    padding: 8px;
+    margin: 8px;
+
+}
